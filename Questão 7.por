@@ -11,6 +11,6 @@ programa {
     total_poupado = total_poupado + economia_mensal
     meses = meses + 1
     }
-escreva("Você atingirá a meta em ", meses, " meses.")
+escreva("VocÃª atingirÃ¡ a meta em ", meses, " meses.")
   }
 }
