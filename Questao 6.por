@@ -5,8 +5,8 @@ programa {
     carro_economico = 15000
     orcamento = 20000
     se (orcamento >= carro_sonho)
-      escreva("Você pode comprar o carro dos seus sonhos!")
+      escreva("VocÃª pode comprar o carro dos seus sonhos!")
     senao
-       escreva("Você precisará optar por um carro econômico.")
+       escreva("VocÃª precisarÃ¡ optar por um carro econÃ´mico.")
   }
 }
